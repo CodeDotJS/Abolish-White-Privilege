@@ -1,0 +1,42 @@
+body {
+	font-family: 'Kavoon', cursive;
+	color: #72727e;
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	padding: 40px;
+}
+
+#question {
+	text-align: center;
+	font-size: 40px;
+	margin-top: 10%;
+}
+
+#answer {
+	text-align: center;
+	margin: 0 auto;
+	text-align: center;
+	padding: 40px;
+}
+
+
+.abolishMeDaddy {
+    height: 70px;
+    width: 200px;
+    color: grey;
+    padding: 34px 20px 0px 20px;
+    font-size: 30px;
+    border: 3px solid grey;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.18), 0px 0px 20px 0px rgba(0, 0, 0, 0.23);
+    border-radius: 3px;
+    transition: all 200ms;
+    display: inline-block;
+    margin: 0px 20px 20px 0px;
+}
+
+.abolishMeDaddy:hover {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.18);
+}
